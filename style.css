@@ -1,0 +1,30 @@
+body {
+    /* padding-top: 0%; */
+    margin: 0%;
+}
+nav {
+    display: flex;
+    justify-content: center;
+}
+.tete {
+    background-color: black;
+}
+
+.logo {
+
+        filter: invert();
+    /* padding: 0%; */
+}
+
+.bouton {
+    margin-top: 50px;
+
+}
+a {
+    font-family: 'Tangerine', cursive;
+    font-size: 250%;
+    text-decoration:none;
+    margin-left: 10px;
+    margin-right: 10px;
+    color :white
+}
